@@ -75,6 +75,11 @@ considering:
 
 ![xUnit](https://img.shields.io/badge/xUnit-181818?style=flat-square)
 ![Moq](https://img.shields.io/badge/Moq-181818?style=flat-square)
+![AutoFixture](https://img.shields.io/badge/AutoFixture-181818?style=flat-square)
+![FluentAssertions](https://img.shields.io/badge/FluentAssertions-181818?style=flat-square)
+![Shouldly](https://img.shields.io/badge/Shouldly-181818?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-181818?style=flat-square)
+
 
 ### Gameplay & Technical Design
 
